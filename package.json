@@ -1,0 +1,17 @@
+{
+  "name": "paginate-js",
+  "description": "Paginate whatever you want, client and server side",
+  "version": "0.0.1",
+  "keywords": ["paginate"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/masylum/paginate-js.git"
+  },
+  "author": "Pau Ramon <masylum@gmail.com>",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
